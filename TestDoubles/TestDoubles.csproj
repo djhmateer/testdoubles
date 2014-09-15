@@ -51,7 +51,6 @@
   <ItemGroup>
     <Compile Include="BloggingContext.cs" />
     <Compile Include="BlogService.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="IBloggingContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueryTests.cs" />
